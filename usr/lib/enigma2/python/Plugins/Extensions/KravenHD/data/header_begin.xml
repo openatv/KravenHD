@@ -65,11 +65,11 @@
     <font filename="lcd.ttf" name="LCD" scale="100" />
     <font filename="ae_AlMateen.ttf" name="Replacement" replacement="1" scale="100" />
     <font filename="tuxtxt.ttf" name="Console" scale="100" />
-    <font filename="KravenHD/fonts/nmsbd2.ttf" name="Arial" scale="100" />
-    <font filename="KravenHD/fonts/OpenSans-Regular.ttf" name="Regular" scale="95" />
-    <font filename="KravenHD/fonts/OpenSans-Semibold.ttf" name="Regular2" scale="95" />
-    <font filename="KravenHD/fonts/meteocons.ttf" name="Meteo" scale="100" />
-	<font filename="KravenHD/fonts/owfont-regular.ttf" name="Meteo2" scale="100" />
+    <font filename="fonts/nmsbd2.ttf" name="Arial" scale="100" />
+    <font filename="fonts/OpenSans-Regular.ttf" name="Regular" scale="95" />
+    <font filename="fonts/OpenSans-Semibold.ttf" name="Regular2" scale="95" />
+    <font filename="fonts/meteocons.ttf" name="Meteo" scale="100" />
+	<font filename="fonts/owfont-regular.ttf" name="Meteo2" scale="100" />
   </fonts>
   <subtitles>
     <sub font="Regular;30" name="Subtitle_TTX" shadowColor="shadow" shadowOffset="3,3" />
